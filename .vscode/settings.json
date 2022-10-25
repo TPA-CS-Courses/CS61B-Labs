@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.toml": "toml",
+        "assert.h": "c",
+        "stdlib.h": "c"
+    }
+}
